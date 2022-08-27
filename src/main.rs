@@ -1,4 +1,3 @@
-//if you are going to costumize the ascii art, dont use "\".
 
 use sysinfo::{System, SystemExt};
 
